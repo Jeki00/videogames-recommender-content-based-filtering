@@ -149,7 +149,7 @@ Sistem rekomendasi berhasil menampilkan 10 daftar video game yang genrenya mirip
 
 ## Evaluation
 Untuk menghitung performa dari sistem rekomendasi yang telah dibuat, proyek ini menggunakan formula precision
-<div>![W8rc6](https://user-images.githubusercontent.com/55694756/229278293-a4e370a6-854e-4b14-9722-2289d538b7b5.png)
-</div>
+![W8rc6](https://user-images.githubusercontent.com/55694756/229278423-a27494a0-57eb-4281-a9ff-a58e2276a98b.png)
+
 
 dari formula tersebut, didapatkan nilai precision sistem rekomendasi video game NBA 2K14 sebesar (10/10) atau 100%
