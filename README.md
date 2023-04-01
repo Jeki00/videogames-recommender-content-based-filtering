@@ -90,7 +90,8 @@ Cara kerja dari sistem rekomendasi berbasis konten adalah merekomendasikan item 
 Dalam kasus ini, dua video games dikatakan mirip bila kedua video games memiliki genre yang sama.
 contoh nya ada seseorang yang menyukai video game NBA 2K14 yang bergenre 'sports', sistem rekomendasi akan merekomendasikan
 game yang bergenre 'Sports' lainnya seperti NASCAR '15
-<div></div>
+<div>![Untitled Diagram drawio](https://user-images.githubusercontent.com/55694756/229278304-613b9fcf-4d06-4537-9b12-0441ea1195f2.png)
+</div>
 gambar 4. gambaran sistem rekomendasi berbasis konten
 
 ### TFIDF Vectorizer
@@ -148,6 +149,7 @@ Sistem rekomendasi berhasil menampilkan 10 daftar video game yang genrenya mirip
 
 ## Evaluation
 Untuk menghitung performa dari sistem rekomendasi yang telah dibuat, proyek ini menggunakan formula precision
-<div></div>
+<div>![W8rc6](https://user-images.githubusercontent.com/55694756/229278293-a4e370a6-854e-4b14-9722-2289d538b7b5.png)
+</div>
 
 dari formula tersebut, didapatkan nilai precision sistem rekomendasi video game NBA 2K14 sebesar (10/10) atau 100%
