@@ -28,7 +28,7 @@ video games berdasarkan data genre dari video games tersebut.
 Tujuan proyek ini adalah dapat membuat sistem rekomendasi video games berdasarkan genre video games.
 ### Solution Statement
 1. Membangun sistem rekomendasi dengan metode content based filtering berdasarkan data genre.
-2. 
+2. Sistem rekomendasi tersebut dibangun dengan mengggunakan TFIDF vectorizer dan cosine similarity.
 
 ## Data Understanding
 Dataset yang digunakan pada proyek ini adalah dataset [Video Games Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
