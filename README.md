@@ -59,17 +59,17 @@ Dataset tersebut berisi beberapa fitur sebagai berikut:
 
 ### EDA
 - Jumlah video games tiap platform
-    <div></div>
+    ![output](https://user-images.githubusercontent.com/55694756/229278518-566e01d2-456d-442a-9c3b-00ea3594d4ac.png)
     gambar 1. Jumlah video games tiap platform
-    <br>
+    
     Terlihat video games yang rilis di platform Nintendo DS dan PS2 terbanyak diantara platform lainnya.
-	<br>
+    
 - Jumlah video games tiap tahun
-    <div></div>
+    ![output2](https://user-images.githubusercontent.com/55694756/229278556-de140e78-8d5a-4193-933c-50e62f454d43.png)
     gambar 2. Jumlah video games tiap platform
     Pada gambar 2 terlihat, pada tahun 2008 dan 2009 merupakan tahun paling banyak merilis video games.
 - Perbadingan genre video games
-    <div></div>
+    ![output3](https://user-images.githubusercontent.com/55694756/229278577-98a84ebc-09f7-4174-8e20-07dac2f58069.png)
     gambar 3. Perbadingan genre video games
     Pada gmabar 3 terlihat genre action merupakan genre yang paling banyak diikuti oleh genre sports.
 
@@ -90,8 +90,9 @@ Cara kerja dari sistem rekomendasi berbasis konten adalah merekomendasikan item 
 Dalam kasus ini, dua video games dikatakan mirip bila kedua video games memiliki genre yang sama.
 contoh nya ada seseorang yang menyukai video game NBA 2K14 yang bergenre 'sports', sistem rekomendasi akan merekomendasikan
 game yang bergenre 'Sports' lainnya seperti NASCAR '15
-<div>![Untitled Diagram drawio](https://user-images.githubusercontent.com/55694756/229278304-613b9fcf-4d06-4537-9b12-0441ea1195f2.png)
-</div>
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/55694756/229278304-613b9fcf-4d06-4537-9b12-0441ea1195f2.png)
+
 gambar 4. gambaran sistem rekomendasi berbasis konten
 
 ### TFIDF Vectorizer
